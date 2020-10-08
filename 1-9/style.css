@@ -35,17 +35,17 @@
 }
 
 .main-visual-item:nth-child(1)>.main-visual-item-main>.main-visual-item-img {
-  background-image: url(/img/flow01.png);
+  background-image: url(/1-9/img/flow01.png);
   background-size: 280px 150px;
 }
 
 .main-visual-item:nth-child(2)>.main-visual-item-main>.main-visual-item-img {
-  background-image: url(/img/flow02.png);
+  background-image: url(/1-9/img/flow02.png);
   background-size: 280px 150px;
 }
 
 .main-visual-item:nth-child(3)>.main-visual-item-main>.main-visual-item-img {
-  background-image: url(/img/flow03.png);
+  background-image: url(/1-9/img/flow03.png);
   background-size: 280px 150px;
 }
 
